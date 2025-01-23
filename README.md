@@ -1,6 +1,6 @@
 
 ###  👋 Hola, soy Franco!
-Soy Desarrollador Web Full Stack y actual estudiante de Licenciatura en Informática.
+Soy Desarrollador Web Full Stack y estudiante de la carrera de Licenciatura en Informática.
 
 #### 🚀 Sobre mi
 - 🖥️ Desarrollador Full Stack
